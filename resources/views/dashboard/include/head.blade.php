@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Proyojone.XYZ</title>
+        <title>@yield('title')</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="Proyojone" name="description" />
         <meta content="Hasibul Hasan" name="author" />

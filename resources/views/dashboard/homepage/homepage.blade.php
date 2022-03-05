@@ -1,4 +1,5 @@
 @extends('dashboard.layout.master')
+@section('title','Proyojone')
 @section('container')
  <!-- start page title -->
  <div class="row">
