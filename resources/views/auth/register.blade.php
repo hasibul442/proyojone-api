@@ -24,6 +24,13 @@
                                 @enderror
                             </div>
                         </div>
+                        <div class="row mb-3" style="display: none">
+                            <label for="name" class="col-md-4 col-form-label text-md-end">{{ __('Name') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="user_type" type="text" class="form-control" name="user_type" value="Super_Admin">
+                            </div>
+                        </div>
 
                         <div class="row mb-3">
                             <label for="email" class="col-md-4 col-form-label text-md-end">{{ __('Email Address') }}</label>
