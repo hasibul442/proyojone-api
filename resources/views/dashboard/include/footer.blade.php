@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center">
-                2018 - 2019 &copy; Greeva theme by <a href="">Coderthemes</a>
+                2022 &copy; Proyojone.XYZ
             </div>
         </div>
     </div>

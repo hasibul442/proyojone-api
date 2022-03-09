@@ -17,7 +17,7 @@
  <script src="{{ asset('assets/libs/datatables/responsive.bootstrap4.min.js') }}"></script>
 
  <!-- Dashboard Init JS -->
- <script src="{{ asset('assets/js/pages/dashboard.init.js') }}"></script>
+ {{-- <script src="{{ asset('assets/js/pages/dashboard.init.js') }}"></script> --}}
 
  <!-- App js -->
  <script src="{{ asset('assets/js/app.min.js') }}"></script>
