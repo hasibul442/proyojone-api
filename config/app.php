@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'http://localhost'),
 
-    'asset_url' => env('ASSET_URL', "https://proyojone-api.proyojone.xyz/public"),
+    'asset_url' => env('ASSET_URL', "https://proyojone.xyz/proyojone-api/public"),
 
     /*
     |--------------------------------------------------------------------------
