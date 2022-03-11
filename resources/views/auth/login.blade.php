@@ -64,7 +64,7 @@
                                         @endif
                                         {{-- <a href="#" class="text-muted float-right"><small>Forgot your password?</small></a> --}}
                                         <label for="password">Password</label>
-                                        <input class="form-control @error('password') is-invalid @enderror" type="password" required id="password" placeholder="Enter your password" autocomplete="current-password">
+                                        <input class="form-control @error('password') is-invalid @enderror" type="password" required id="password" placeholder="Enter your password" name="password" autocomplete="current-password">
                                         @error('password')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
