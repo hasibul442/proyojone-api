@@ -15,6 +15,8 @@
         <link href="{{ asset('assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
         <link href="{{ asset('assets/css/app.min.css" rel="stylesheet') }}" type="text/css" />
 
+        {{-- <script src="{{ asset('js/app.js') }}" defer></script> --}}
+        {{-- <link href="{{ asset('css/app.css') }}" rel="stylesheet"> --}}
     </head>
 
     <body class="authentication-bg authentication-bg-pattern d-flex align-items-center">
@@ -32,7 +34,7 @@
                             <div class="card-body p-4">
 
                                 <div class="text-center mb-4">
-                                    <a href="index.html">
+                                    <a href="#">
                                         <span>
                                             {{-- <img src="{{ asset('assets/images/logo-light.png') }}" alt="" height="28"> --}}
                                         </span>
